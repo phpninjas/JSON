@@ -6,12 +6,13 @@ Get Composer
 ```bash
 curl -sS https://getcomposer.org/installer | php
 php composer.phar install
-composer.json
 ```
+
+composer.json
 
 ```json
 {
-  require: {
+  "require": {
     "phpninjas/observable": "dev-master"
   }
 }
