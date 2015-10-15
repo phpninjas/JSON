@@ -1,4 +1,7 @@
 {
+  "name" :"phpninjas/json",
+  "keywords":["json"],
+  "homepage":"https://github.com/phpninjas/JSON",
   "require": {
     "php": ">=5.4"
   },
