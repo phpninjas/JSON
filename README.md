@@ -13,7 +13,7 @@ composer.json
 ```json
 {
   "require": {
-    "phpninjas/observable": "dev-master"
+    "phpninjas/json": "v0.1.0"
   }
 }
 ```
